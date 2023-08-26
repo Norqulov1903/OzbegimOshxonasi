@@ -1,0 +1,399 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sayt{
+    max-width: 1300px;
+    width: 100%;
+  height: auto;
+    border: 1px solid black;
+    margin: auto;
+    background: url("../images/qora\ orqa\ fon.jpg") no-repeat center center / cover;
+}       
+.content{
+    max-width: auto;
+    width: 100%;
+ height: auto;
+    background-color: #EC6E08;
+    box-shadow: 0 0 20px black;
+    margin-top: 20px;
+}
+.content-inner img{
+    position: absolute;
+    top: -2px;
+    left: 91px;
+}
+.content-inner{
+   max-width: 300px;
+   width: 100%;
+   height: auto;
+   float: left; 
+   position: relative;
+   text-align: center;
+   padding: 20px;
+   color: white;
+}
+.content-inner2{
+  max-width: 800PX;
+  width: 100%;
+    height: auto;
+    float:right;
+   padding: 20px ;
+   margin-top: 15px;
+}
+.content-inner2 ul{
+    list-style: none;
+    width: 100%;
+}
+.content-inner2 ul li{
+    float: left;
+    max-width:200px;
+    width: 100%;
+}
+.content-inner2 ul li a{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    width: 100%;
+
+}
+.clear  
+{
+    clear: both;
+}
+.header{
+    max-width: 100%;
+    margin-top: 20px;
+    width: 100%;
+
+    text-align: center;
+    color: white;
+    
+    background:linear-gradient(to left, rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("../images/ozbegim.jpg" ) no-repeat center center / cover;
+   
+
+}
+.header2{
+   max-width: 500px;
+   width: 100%;
+   height: auto;
+
+   margin: auto;
+   padding-top: 100px;
+   
+   
+}
+.header2 h1{
+    
+    padding-top: 50px;
+    font-size: 60px;
+}
+.header2 p{
+    padding-top: 90px;
+    padding-bottom: 100px;
+}
+.navbar{
+
+   width: 95%;
+   height: auto;
+   margin: 20px auto;
+   background-color: white;
+   box-shadow: 0 0 20px black;
+}
+.navbar1{
+ 
+    width: 100%;
+    border: none;
+    border-bottom: 3px solid gold;
+    text-align: center;
+}
+.navbar1 h3 {
+    float: left;
+    display: block;
+padding: 20px 130px;
+font-size: 20px;
+}
+.card{
+   max-width: 395px;
+   width: 100%;
+   
+   height: auto;
+   float: left;
+   position: relative;
+    
+}
+.card-inner{
+    max-width: 250px;
+    width:100%;
+    height: 250px;
+    border-radius: 50%;
+    border: 2px dashed black;
+   margin: auto;
+   margin-top: 20px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.card-inner2{
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+        border-radius: 50%;
+       padding: 20px;
+        background: linear-gradient(to bottom,#FF6F02,#FF9401,#FFC901);
+}
+.card-inner3{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+ box-sizing: border-box;
+    background: url("../images/img1.jpg") no-repeat center center/cover;
+}
+.narx{
+    max-width: 60px;
+    width: 100%;
+    height: 60px;
+    border-radius: 50%;
+    background-color: green;
+    padding: 4px;
+    box-sizing: border-box;
+    position: absolute;
+    top: 5px;
+    left: 166px;
+}
+.narx1{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid white;
+    color: white;   
+}
+.narx2{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid white;
+    color: white;   
+}
+.narx2 h2{
+    margin-left: 3px;
+}
+.narx1 h2{
+    margin-left: -4px;
+}
+.card:nth-child(1) h3{
+  color: red;
+}
+.card-inner4{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+ box-sizing: border-box;
+    background: url("../images/img2.jpg") no-repeat center center/cover;
+}
+.card-inner5{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+ box-sizing: border-box;
+    background: url("../images/img3.jpg") no-repeat center center/cover;
+}
+.pastki{
+    max-width:395px;
+    width: 100%;
+    height: 40px;
+padding-bottom: 5px;
+    text-align: center;
+
+}
+.navbar2{
+    width: auto;
+    border: none;
+    border-top: 3px solid gold;
+    text-align: center;
+    padding-bottom: 60px;
+    
+}
+.salt{
+    max-width: 1200px;
+width: 100%;
+height: auto;
+
+margin: 20px auto;
+}
+.salom{
+  
+  width: 30%;
+    height: auto;
+box-shadow:  0 0 20px black;
+    float: left;
+    background: linear-gradient(to right,#FF6E05,#FF6E05,#FF6E05,#FF6E05,#E9660B,#C55813,
+    #9E4A1E,#823F25,#60312D,#562E2F,#4B2A33,#422537,#3A2635 );
+}
+.dunyo{
+max-width: 750px;
+    width: 100%;
+    height: auto;
+    float: right;
+    color: white;
+    box-shadow: 0 0 20px black;
+    background: linear-gradient(to right, rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("../images/img4.jpg") no-repeat center center / cover;
+}
+
+.salom1{
+    
+    
+    width: 100%;
+padding-left: 10px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    
+    
+    height: auto;
+    
+}
+.salom1 button{
+    max-width: 150px;
+    width: 100%;
+    height: 40px;
+    color: white;
+    border-radius: 20px;
+    background-color: #FF6F02;
+ margin-bottom: 10px;
+ border: none;
+ box-shadow: 0 0 10px black;
+}
+.salom1 input{
+padding: 10px px;
+  
+    outline: none;
+   
+}
+.salom1 label{
+    font-size: 25px;
+  
+}
+.dunyo h3{
+    text-align: center;
+    font-size: 30px;
+    padding: 50px 10px;
+}
+.dunyo p{
+    margin: 10px 50px;
+    text-align: center;
+}
+.people{
+max-width: 1300px;
+width: 100%;
+height: auto;
+border: none;
+border-top: 2px solid white;
+border-bottom: 2px solid white;
+background-color: #04061B;
+margin-bottom: 20px;
+
+}
+.hello{
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+margin-left: 50px;
+margin-top: 10px;
+color: white;
+    float: left;
+   
+}
+.hello1{
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    color: white;
+margin-top: 40px;
+    float: right;
+
+}
+.content-inner32 img{
+    position: absolute;
+    top: -2px;
+    left: 1px;
+}
+.content-inner32{
+  max-width: 300px;
+  width: 100%;
+   height: auto;
+
+   position: relative;
+   
+   padding: 20px;
+   color: white;
+}
+.hello p{
+    text-align: center;
+    margin: 10px 40px;
+}
+.icon{
+    max-width: 50px;
+    width: 100%;
+    height: 50px;
+
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.icon i{
+    text-align: center;
+    font-size: 30px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.yozuv{
+    max-width: 120px;
+    width: 100%;
+    height: 50px;
+
+    float: left;
+    margin-top: 30px;
+
+}
+.yozuv h4{
+
+    margin-top: 6px;
+}
+.icon1{
+    max-width: 50px;
+    width: 100%;
+    height: 50px;
+
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+  
+}
+.icon1 i{
+    text-align: center;
+    font-size: 30px;
+    display: block;
+    margin: auto;
+margin-top: 10px;
+}
+.yozuv1{
+    max-width: 120px;
+    width: 100%;
+    height: 50px;
+
+    float: left;
+    margin-top: 10px;
+
+
+}
+.yozuv1 h4{
+
+    margin-top: 6px;
+}
+
