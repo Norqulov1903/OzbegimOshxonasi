@@ -57,7 +57,11 @@
     color: white;
     font-size: 16px;
     width: 100%;
+    transition: all 0.2s;
 
+}
+.content-inner2 ul li a:hover{
+    color: black;
 }
 .clear  
 {
@@ -228,7 +232,7 @@ margin: 20px auto;
 }
 .salom{
   
-  width: 30%;
+  width: 25%;
     height: auto;
 box-shadow:  0 0 20px black;
     float: left;
@@ -247,14 +251,11 @@ max-width: 750px;
 
 .salom1{
     
-    
-    width: 100%;
-padding-left: 10px;
+    margin: auto;
+    text-align: center;
+    padding-left: 10px;
     margin-top: 30px;
     padding-bottom: 30px;
-    
-    
-    height: auto;
     
 }
 .salom1 button{
